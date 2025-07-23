@@ -48,13 +48,13 @@ CC.mod
 
 ### Notes on Configuration
 
-* The inlist for this phase is based on the setup developed with Mathieu Renzo and Ore Gottlieb.
+* The inlist for this phase is based on the setup developed with Mathieu Renzo, Jared Goldberg, Eb Farag and others for Ore Gottlieb's project.
 * Two key settings that helped stabilize the outer layers (which are prone to late-time instabilities) are:
 
   * `superad_reduction` (superadiabaticity reduction)
   * `Pextra_factor = 4`
 
-These adjustments help suppress spurious convection and numerical noise in the envelope during advanced burning stages.
+These adjustments help suppress oscillations in the envelope during advanced burning stages.
 
 ---
 
