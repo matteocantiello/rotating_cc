@@ -69,5 +69,5 @@ These adjustments help suppress oscillations in the envelope during advanced bur
 
   ![Structure Profile at Core Collapse](m50_w0.6_z1d-5_to_cc/Grid1_004398.png)
 
-  ![Structure Profile at Core Collapse](m50_w0.6_z1d-5_to_cc/Plot.png)
+  ![Structure Profile at Core Collapse](m50_w0.6_z1d-5_to_cc/plot.png)
 
