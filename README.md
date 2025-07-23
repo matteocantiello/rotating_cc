@@ -66,3 +66,6 @@ These adjustments help suppress oscillations in the envelope during advanced bur
 * Profile at collapse (inward velocities ≥ 500 km/s):
   `m50_w0.6_z1d-5_to_cc/LOGS/profile21.data`
 
+
+  ![Structure Profile at Core Collapse](m50_w0.6_z1d-5_to_cc/Grid1_003627.png)
+
